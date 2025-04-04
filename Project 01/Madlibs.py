@@ -12,7 +12,7 @@ def mad_libs():
     story = f"""
     One day, a {adjective} {animal} was walking through {place}.
     It saw a {noun} and got very excited.
-    So, it {verb} all around happily!
+    So, it {verb} all around happily.!
     """
 
     
