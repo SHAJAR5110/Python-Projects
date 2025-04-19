@@ -28,8 +28,9 @@ git clone https://github.com/SHAJAR5110/Python-Projects.git
 Each project is a standalone Python script.  
 Example: To run the Tic-Tac-Toe game, use:
 ```bash
-python tic_tac_toe.py
----
+python tic_tac_toe.py 
+```
+
 
 ## 🐜 Contributing
 Want to add new features or fix bugs? Feel free to **fork this repository and submit a pull request!**
