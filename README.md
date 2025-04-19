@@ -11,6 +11,7 @@ This repository contains **fun and beginner-friendly Python projects**, includin
 5. **Hangman Game** – Guess the word before you run out of chances! 🔤  
 6. **Two-Player Tic-Tac-Toe Game** – Play Tic-Tac-Toe with a friend. ❌⭕  
 7. **Count Timer** - you just enter the seconds and timer will start
+8. **Password Generator**- Generate the password between 1-18
 ---
 
 ## 🚀 Getting Started
