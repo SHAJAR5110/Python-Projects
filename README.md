@@ -12,6 +12,8 @@ This repository contains **fun and beginner-friendly Python projects**, includin
 6. **Two-Player Tic-Tac-Toe Game** – Play Tic-Tac-Toe with a friend. ❌⭕  
 7. **Count Timer** - you just enter the seconds and timer will start
 8. **Password Generator**- Generate the password between 1-18
+9. **BMI** -BMI calculator in streamlit
+10. **Website in Streamlit** -The DataSweeper website using stramlit
 ---
 
 ## 🚀 Getting Started
@@ -27,43 +29,6 @@ Each project is a standalone Python script.
 Example: To run the Tic-Tac-Toe game, use:
 ```bash
 python tic_tac_toe.py
-```
-
----
-
-## 📂 Project Descriptions
-
-### 📝 **1. Mad Libs Project**
-- This is a fun word game where you provide words (nouns, verbs, adjectives) to complete a story.  
-- Run `madlibs.py` and follow the prompts.  
-
-### 👤 **2. Number Guessing for User**
-- The computer randomly selects a number, and you have to guess it.
-- Hints are given: **Too High / Too Low**.
-
-### 🎯 **3. Number Guess by Computer**
-- You think of a number, and the **computer tries to guess** it.  
-- You tell the computer if its guess is **too high, too low, or correct**.
-
-### ✊✋✌ **4. Rock Paper Scissors**
-- Play the **classic game** against the computer.  
-- Input your choice, and the computer picks randomly.
-
-### 🔤 **5. Hangman Game**
-- A **word-guessing game** where you try to guess a hidden word letter by letter.  
-- You have limited attempts before you lose!
-- Randomly pick the word from 100 words
-
-### ❌⭕ **6. Two-Player Tic-Tac-Toe**
-- A **turn-based game** for two players.  
-- Enter row & column numbers (1-3) to make a move.
-
----
-
-## 🛠️ Requirements
-All projects are written in **Python** and require **no external libraries**.  
-Just install Python and run the scripts!
-
 ---
 
 ## 🐜 Contributing
